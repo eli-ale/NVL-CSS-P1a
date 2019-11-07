@@ -1,0 +1,1 @@
+introducimos en el doc. html un link  <link rel="stylesheet" type="text/css" href="Practica I css.css">  para poder crear una hoja estilo externa al documeto html.
